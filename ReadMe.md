@@ -1,5 +1,5 @@
 # 💫 About Me:
-Pour l'a rentrée 2023/2024 je commencerais mes études pour être Concepteur Intégrateur DevOps à l'EPSI.<br>Je cherche de l'aide pour des projets javascript.<br>Je suis en train d'apprendre JavaScript  et Git.<br>Demandez moi pour des projets de Web développement. 
+Pour la rentrée 2023/2024 je commencerais mes études pour être Concepteur Intégrateur DevOps à l'EPSI.<br>Je cherche de l'aide pour des projets javascript.<br>Je suis en train d'apprendre JavaScript  et Git.<br>Demandez moi pour des projets de Web développement. 
 
 
 ## 🌐 Socials:
